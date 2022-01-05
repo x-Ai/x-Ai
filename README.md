@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://github.com/x-Ai?tab=followers">
   <img src="https://img.shields.io/github/followers/x-Ai?color=green&logo=Github&style=for-the-badge" alt="GitHub badge" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-Ai&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width=340>-->
 </a> 
 </p>
 
