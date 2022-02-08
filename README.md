@@ -12,8 +12,8 @@
 
 ## 📑 项目
 
-- https://github.com/x-Ai/BurpSuiteLoader (已被DMCA)
-- https://github.com/x-Ai/BurpUnlimitedre (已被DMCA)
+- https://github.com/x-Ai/BurpSuiteLoader BurpSuite通杀(已被DMCA)
+- https://github.com/x-Ai/BurpUnlimitedre BurpSuite 1.7.27(已被DMCA)
 
 
 <!--
